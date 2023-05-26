@@ -26,4 +26,4 @@ interaction.
 
 - `HelloApplication.java`: Contains GUI code and The Extraction of Block,Line and Branches and return them in array of their class.
 
-- `ScreenshotOutput.jpg`:A screenshot showing the output.
+- `Screenshot_Of_Output.jpg`:A screenshot showing the output.
