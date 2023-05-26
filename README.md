@@ -16,11 +16,11 @@ GUI will provide a user-friendly interface for displaying the model and enabling
 interaction.
 
 ## Files
-- `Block.java`: Is a class having construcors of Block and Getter for it's attributes like (Name,SID,BlockType,Position, Mirror).
+- `Block.java`: Is a class having construcors of Block and Getters for it's attributes like (Name,SID,BlockType,Position, Mirror).
 
-- `Line.java` : Is a class having construcors of Line and Getter for it's attributes like(Src,Dst,Points,Branches).
+- `Line.java` : Is a class having construcors of Line and Getters for it's attributes like(Src,Dst,Points,Branches).
 
-- `Branch.java`: Is a class having construcors of Branch and Getter for it's attributes like(Dst,Points).
+- `Branch.java`: Is a class having construcors of Branch and Getters for it's attributes like(Dst,Points).
 
 - `Arrow.java` :Is a line with an arrow by using a custom implementation of the Shape class.
 
