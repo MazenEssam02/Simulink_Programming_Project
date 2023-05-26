@@ -24,4 +24,6 @@ interaction.
 
 - `Arrow.java` :Is a line with an arrow by using a custom implementation of the Shape class.
 
-- `HelloApplication`: Contains GUI code and The Extraction of Block,Line and Branches and return them in array of their class.
+- `HelloApplication.java`: Contains GUI code and The Extraction of Block,Line and Branches and return them in array of their class.
+
+- `ScreenshotOutput.jpg`:A screenshot showing the output.
