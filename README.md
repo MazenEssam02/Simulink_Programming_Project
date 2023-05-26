@@ -28,4 +28,4 @@ interaction.
 
 - `Screenshot_Of_Output.jpg`:A screenshot showing the output.
 
--`Example.mdl`: The MDL File that we extract data from. 
+- `Example.mdl`: The MDL File that we extract data from. 
