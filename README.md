@@ -17,7 +17,11 @@ interaction.
 
 ## Files
 -`Block.java`: Is a class having construcors of Block and Getter for it's attributes like (Name,SID,BlockType,Position, Mirror).
+
 -`Line.java` : Is a class having construcors of Line and Getter for it's attributes like(Src,Dst,Points,Branches).
+
 -`Branch.java`: Is a class having construcors of Branch and Getter for it's attributes like(Dst,Points).
+
 -`Arrow.java` :Is a line with an arrow by using a custom implementation of the Shape class.
+
 -`HelloApplication`: Contains GUI code and The Extraction of Block,Line and Branches and return them in array of their class.
