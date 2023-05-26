@@ -1,5 +1,4 @@
 # Simulink_Project
-## Aim Of The Project
 The aim of this project is to develop a software tool that can read Simulink MDL files
 and display their contents in a user-friendly way using a Java-based graphical user
 interface (GUI). Simulink is a popular simulation and modeling environment used in
@@ -15,3 +14,10 @@ Java-based GUI. The parser will be responsible for reading the MDL file and extr
 the model information, including the block diagram, parameters, and connections. The
 GUI will provide a user-friendly interface for displaying the model and enabling user
 interaction.
+
+## Files
+-`Block.java`: Is a class having construcors of Block and Getter for it's attributes like (Name,SID,BlockType,Position, Mirror).
+-`Line.java` : Is a class having construcors of Line and Getter for it's attributes like(Src,Dst,Points,Branches).
+-`Branch.java`: Is a class having construcors of Branch and Getter for it's attributes like(Dst,Points).
+-`Arrow.java` :Is a line with an arrow by using a custom implementation of the Shape class.
+-`HelloApplication`: Contains GUI code and The Extraction of Block,Line and Branches and return them in array of their class.
