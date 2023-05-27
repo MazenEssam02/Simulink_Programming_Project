@@ -15,6 +15,13 @@ the model information, including the block diagram, parameters, and connections.
 GUI will provide a user-friendly interface for displaying the model and enabling user
 interaction.
 
+## Team Members
+- Mazen Essam Eldin Helmy 2001607
+- Sara Ahmed Mostafa 2000362
+- George Geham William 2000073
+- Ezzat Tarek Mohamed 2001022
+- Mohamed Ali Fadl 2000965
+
 ## Files
 - `Block.java`: Is a class having construcors of Block and Getters for it's attributes like (Name,SID,BlockType,Position, Mirror).
 
